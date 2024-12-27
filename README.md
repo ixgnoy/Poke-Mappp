@@ -6,6 +6,5 @@ Flutter Mapp Clean Architecture Project
 
 Navigate to -> Lib/core/template/info_feature.txt
 
-<iframe width="420" height="315"
-src="https://youtube.com/shorts/Rc2nwOzWIKI?autoplay=1">
-</iframe>
+Check out this [YouTube video](https://youtube.com/shorts/Rc2nwOzWIKI)!
+
